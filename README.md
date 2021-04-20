@@ -1,4 +1,4 @@
-# Hello! 😊
+# Hello! 
 
 I'm Marco from Triest, Italy!
 
