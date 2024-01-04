@@ -14,6 +14,6 @@ Hi! I am [Marco carpona](https://marcocarpona.dev), a Frontend Developer from Tr
 
 ## Contact Me
 
-You can find me on [LinkedIn]([link-al-tuo-profilo-linkedin](https://www.linkedin.com/in/marco-carpona/)) or [Twitter]([link-al-tuo-profilo-twitter](https://twitter.com/marcocarpona)).
+You can find me on [LinkedIn](https://www.linkedin.com/in/marco-carpona/).
 
 Thanks!
