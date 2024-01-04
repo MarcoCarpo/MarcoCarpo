@@ -1,6 +1,6 @@
 
 
-# Benvenuto nel mio profilo GitHub! 👋
+# Welcome! 👋
 
 Hi! I am [Marco carpona](https://marcocarpona.dev), a Frontend Developer from Trieste, Italy!.
 
