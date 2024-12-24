@@ -1,19 +1,34 @@
+# Welcome to my GitHub Profile! 👋
 
+Hi there! I'm Marco Carpona, a passionate Frontend Developer from Trieste, Italy. I specialize in building modern web applications, mainly with React and Angular.
 
-# Welcome! 👋
+---
 
-Hi! I am [Marco carpona](https://marcocarpona.dev), a Frontend Developer from Trieste, Italy!.
+## 🛠️ Tech Stack
 
-## Stats
+- **Languages:** JavaScript, TypeScript, HTML, CSS/SCSS
+- **Frameworks/Libraries:** React, Angular, Next.js
+- **Tools:** Git, Figma, Vite
+- **Other Skills:** Responsive Design, API and DB integration (Prisma), State Management (TanStack Query)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=MarcoCarpo&show_icons=true&hide=contribs,prs&theme=radical)
+---
 
-## Most used languages
+## 📈 GitHub Stats
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoCarpo&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarcoCarpo&show_icons=true&hide=contribs,prs&theme=radical)
 
-## Contact Me
+## 🌟 Most Used Languages
 
-You can find me on [LinkedIn](https://www.linkedin.com/in/marco-carpona/).
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoCarpo&layout=compact&theme=radical)
 
-Thanks!
+---
+
+## 💬 Let's Connect
+
+I'm always happy to connect and collaborate with fellow developers and tech enthusiasts. Feel free to reach out:
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/marco-carpona/)
+
+---
+
+Thanks for visiting my profile! 😊
